@@ -2,6 +2,10 @@
 ## Short description
 PatchFlow is a set of precalculated networks for simulating the metapopulation SEIR model at a global level. For the current version, using openly available datasets on population sizes [1] at the resolution of administrative regions (admin2 and admin3) [2], we construct country specific mobility networks based on a radiational model [3,4]. These networks are constructed to be compatible with open source metapopulation simulation engine, PatchSim [5].  
 
+This project is supported by the National Science Foundation under the NSF RAPID: COVID-19 Response Support: Building Synthetic Multi-scale Networks (PI: Madhav Marathe, Co-PIs: Henning Mortveit, Srinivasan Venkatramanan; Fund Number: OAC-2027541). 
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027541
+
+
 ## Versions
 |         |             |
 | ------- | ----------- |

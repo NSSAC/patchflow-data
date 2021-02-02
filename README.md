@@ -16,6 +16,9 @@ This project is supported by the National Science Foundation under the [NSF RAPI
 1. [Files description](docs/files_description.md)
 2. [Methodology](docs/methodology.md)
 
+## Examples
+1. How use PatchFlow networks with PatchSim? [jupyter notebook](examples/patchsim_example.ipynb)
+
 ## License
 [![CC BY 4.0][cc-by-nc-image]][cc-by-nc]
 

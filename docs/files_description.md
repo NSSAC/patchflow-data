@@ -14,7 +14,7 @@ Each represented region has the following files
 
 
 
-The format of the networks is simple CSV file:
+The format of the networks is a simple CSV file:
 ``` 
 origin,destination,flow,time
 POL.1_1,POL.8_1,396603.0,0
@@ -46,23 +46,6 @@ The network includes *self-loops* (`origin == destination`) i.e. people that are
 
 
 ### Supporting files
- 1. Regions 
-    ```sh
-    ${ISO_3}/${ISO_3}_admin${ADMIN_LEVEL}.csv
-    ```
-    CSV file:
-    ```
-    PatchName,CENTROID_X,CENTROID_Y,UN_2020_E
-    POL.1_1,16.411439530886,51.0904512278866,3110932.9133741
-    ```
-    | field | description |
-    |-------|-------------|
-    | `PatchName`  | The identifier corresponds to GADM v3.6 region identifier
-    | `CENTROID_X` | The longitude of the region's centroid  
-    | `CENTROID_Y` | The latitude of the region's centroid
-    | `UN_2020_E`  | The population estimate of the region based on the GPW v4.11 data
-    
-
  1. Population files for PatchSim
     ```sh
      ${ISO_3}/${ISO_3}_admin${ADMIN_LEVEL}_population.patchsim

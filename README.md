@@ -9,11 +9,11 @@ This project is supported by the National Science Foundation under the [NSF RAPI
 
 
 ## Versions
-> **DOI assignement and versioning** all PatchFlow networks are assigned a single master DOI ([10.5281/zenodo.4313094][doi-master]) and each series and revisions are assigned a seperate, versioned DOI. The most recent version of the particular series is marked in bold in the table below.
+> **DOI assignement and versioning** all PatchFlow networks are assigned a single master DOI ([10.5281/zenodo.4495679][doi-master]) and each series and revisions are assigned a seperate, versioned DOI. The most recent version of the particular series is marked in bold in the table below.
 
 | Version | DOI                                                | Desription  |
 | ------- | -------------------------------------------------- | ----------- |
-| **1.0**     |[10.5281/zenodo.4313095][doi-1.0] | Initial release of the synthetic mobility networks calculated using radiation model based on GPW-GADM admin 1 and admin 2 level regions |
+| **1.0**     |[10.5281/zenodo.4495680][doi-1.0] | Initial release of the synthetic mobility networks calculated using radiation model based on GPW-GADM admin 1 and admin 2 level regions |
 
 ## Documentation
 1. [Files description](docs/files_description.md)
@@ -40,7 +40,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 [cc-by-nc-shield]: https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue
 [nsf-award-shield]: https://img.shields.io/badge/NSF-OAC--2027541-blue
 [nsf-award]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027541
-[doi-master]: https://doi.org/10.5281/zenodo.4313094
-[doi-master-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.4313094.svg
-[doi-1.0]: https://doi.org/10.5281/zenodo.4313095
-[doi-1.0-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.4313095.svg
+[doi-master]: https://doi.org/10.5281/zenodo.4495679
+[doi-master-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.4495679.svg
+[doi-1.0]: https://doi.org/10.5281/zenodo.4495680
+[doi-1.0-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.4495680.svg
